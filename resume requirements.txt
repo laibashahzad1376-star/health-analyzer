@@ -1,4 +1,6 @@
-streamlit
-nltk
-PyPDF2
-scikit-learn
+import re                                                               
+
+import nltk                                                             
+import PyPDF2                                                           
+from sklearn.feature_extraction.text import TfidfVectorizer             
+from nltk.tokenize import sent_tokenize
