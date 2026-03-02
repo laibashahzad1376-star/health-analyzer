@@ -1,0 +1,4 @@
+gradio
+nltk
+PyPDF2
+scikit-learn
