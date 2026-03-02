@@ -1,4 +1,4 @@
-gradio
+streamlit
 nltk
 PyPDF2
 scikit-learn
